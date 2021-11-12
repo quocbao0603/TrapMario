@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 21561688}
   m_Layer: 0
   m_Name: Ground (1)
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -379,6 +379,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerSpeed: 10
   playerJumpPower: 1250
+  isGrounded: 0
 --- !u!114 &53563375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -391,8 +392,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14f7c0992b4808244a4049b630bb4f88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 0
-  hasDied: 0
 --- !u!1 &149907078
 GameObject:
   m_ObjectHideFlags: 0
@@ -406,7 +405,7 @@ GameObject:
   - component: {fileID: 149907079}
   m_Layer: 0
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
