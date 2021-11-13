@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 public class player_health : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -13,16 +14,18 @@ public class player_health : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //fall in a hole
         if (gameObject.transform.position.y < -7)
         {
             Die();
         }
-       
     }
 
-    void Die(){
-        //Debug.Log("Player has died");
+    public static void Die(){
+        Debug.Log("Player has died");
+       
         SceneManager.LoadScene("Prototype_1");
         //yield return null; 
     }
+
 }
