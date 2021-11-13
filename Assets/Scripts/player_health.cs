@@ -24,7 +24,7 @@ public class player_health : MonoBehaviour
     public static void Die(){
         Debug.Log("Player has died");
        
-        SceneManager.LoadScene("Prototype_1");
+        SceneManager.LoadScene("Game");
         //yield return null; 
     }
 
