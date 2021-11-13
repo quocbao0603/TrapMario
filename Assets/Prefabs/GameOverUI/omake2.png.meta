@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bda4efa95360f1d428d2f883ac433e79
+guid: 0bbec013274059844a4bbda94ea2d7b9
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -50,7 +50,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 30, y: 39, z: 242, w: 56}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -97,10 +97,10 @@ TextureImporter:
       name: omake2_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 40
-        width: 27
-        height: 35
+        x: 34
+        y: 41
+        width: 25
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
