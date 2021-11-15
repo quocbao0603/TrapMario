@@ -21,7 +21,7 @@ public class GameOver : MonoBehaviour
         if (Input.anyKeyDown)
         {
             if (!Input.GetKey(KeyCode.Mouse0) && !Input.GetKey(KeyCode.Mouse1)) { 
-                SceneManager.LoadScene("Game");
+                SceneManager.LoadScene("GameLevel1");
             }
         }
     }

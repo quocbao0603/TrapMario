@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - ground
+  - green_teki
+  - enemy
+  - New tag
+  - fire
   layers:
   - Default
   - TransparentFX

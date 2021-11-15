@@ -1,0 +1,4545 @@
+fileFormatVersion: 2
+guid: 1a80eac9bcaf0574fb39859036be5a1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2363335349633509032
+    second: Arcade - Lemmings - Traps_0
+  - first:
+      213: -5552447420320467561
+    second: Arcade - Lemmings - Traps_1
+  - first:
+      213: 9039649664044389529
+    second: Arcade - Lemmings - Traps_2
+  - first:
+      213: 132079368997234837
+    second: Arcade - Lemmings - Traps_3
+  - first:
+      213: -790885848868697660
+    second: Arcade - Lemmings - Traps_4
+  - first:
+      213: -7079985933868401259
+    second: Arcade - Lemmings - Traps_5
+  - first:
+      213: -7498247255673123517
+    second: Arcade - Lemmings - Traps_6
+  - first:
+      213: 5772857243759801108
+    second: Arcade - Lemmings - Traps_7
+  - first:
+      213: -8876582528622063226
+    second: Arcade - Lemmings - Traps_8
+  - first:
+      213: 7914344279838290586
+    second: Arcade - Lemmings - Traps_9
+  - first:
+      213: 7112690110712792265
+    second: Arcade - Lemmings - Traps_10
+  - first:
+      213: 2226429572727490032
+    second: Arcade - Lemmings - Traps_11
+  - first:
+      213: -8449747786850267119
+    second: Arcade - Lemmings - Traps_12
+  - first:
+      213: -4141866282869777701
+    second: Arcade - Lemmings - Traps_13
+  - first:
+      213: 4636427723755129692
+    second: Arcade - Lemmings - Traps_14
+  - first:
+      213: 3751584348249436048
+    second: Arcade - Lemmings - Traps_15
+  - first:
+      213: -7313584131426682753
+    second: Arcade - Lemmings - Traps_16
+  - first:
+      213: 8352995371533077146
+    second: Arcade - Lemmings - Traps_17
+  - first:
+      213: -934290437017172293
+    second: Arcade - Lemmings - Traps_18
+  - first:
+      213: -1965913252488714677
+    second: Arcade - Lemmings - Traps_19
+  - first:
+      213: 6784230147348223458
+    second: Arcade - Lemmings - Traps_20
+  - first:
+      213: 2134003517018020512
+    second: Arcade - Lemmings - Traps_21
+  - first:
+      213: 4051181559186285923
+    second: Arcade - Lemmings - Traps_22
+  - first:
+      213: 3440037398238397995
+    second: Arcade - Lemmings - Traps_23
+  - first:
+      213: -2224714682593409220
+    second: Arcade - Lemmings - Traps_24
+  - first:
+      213: -5301923385769248688
+    second: Arcade - Lemmings - Traps_25
+  - first:
+      213: 3044427432804154690
+    second: Arcade - Lemmings - Traps_26
+  - first:
+      213: 5940266816565327226
+    second: Arcade - Lemmings - Traps_27
+  - first:
+      213: 4784365540923506361
+    second: Arcade - Lemmings - Traps_28
+  - first:
+      213: 8144036506600648654
+    second: Arcade - Lemmings - Traps_29
+  - first:
+      213: -3082683049856288322
+    second: Arcade - Lemmings - Traps_30
+  - first:
+      213: -4323998746878313263
+    second: Arcade - Lemmings - Traps_31
+  - first:
+      213: -2350339208976985559
+    second: Arcade - Lemmings - Traps_32
+  - first:
+      213: 1917578732468904858
+    second: Arcade - Lemmings - Traps_33
+  - first:
+      213: -416116919262336200
+    second: Arcade - Lemmings - Traps_34
+  - first:
+      213: 292751782541113760
+    second: Arcade - Lemmings - Traps_35
+  - first:
+      213: 2699218337152663320
+    second: Arcade - Lemmings - Traps_36
+  - first:
+      213: -6168584373875500508
+    second: Arcade - Lemmings - Traps_37
+  - first:
+      213: 3450981764167803562
+    second: Arcade - Lemmings - Traps_38
+  - first:
+      213: -5668105775093841059
+    second: Arcade - Lemmings - Traps_39
+  - first:
+      213: 3747561842843704041
+    second: Arcade - Lemmings - Traps_40
+  - first:
+      213: -3621735431521753709
+    second: Arcade - Lemmings - Traps_41
+  - first:
+      213: -7202605930294164096
+    second: Arcade - Lemmings - Traps_42
+  - first:
+      213: 346286580528362513
+    second: Arcade - Lemmings - Traps_43
+  - first:
+      213: 2637300083564077511
+    second: Arcade - Lemmings - Traps_44
+  - first:
+      213: 5325428948957152885
+    second: Arcade - Lemmings - Traps_45
+  - first:
+      213: -9120334945665304262
+    second: Arcade - Lemmings - Traps_46
+  - first:
+      213: 1967604251735795048
+    second: Arcade - Lemmings - Traps_47
+  - first:
+      213: -6514114231538694362
+    second: Arcade - Lemmings - Traps_48
+  - first:
+      213: -3097956404118046339
+    second: Arcade - Lemmings - Traps_49
+  - first:
+      213: -3228559952437067993
+    second: Arcade - Lemmings - Traps_50
+  - first:
+      213: -4854819990354437263
+    second: Arcade - Lemmings - Traps_51
+  - first:
+      213: -5230364253120644198
+    second: Arcade - Lemmings - Traps_52
+  - first:
+      213: 826360641827836896
+    second: Arcade - Lemmings - Traps_53
+  - first:
+      213: -2475862912067619527
+    second: Arcade - Lemmings - Traps_54
+  - first:
+      213: -6027349186338729060
+    second: Arcade - Lemmings - Traps_55
+  - first:
+      213: -8383000419274866753
+    second: Arcade - Lemmings - Traps_56
+  - first:
+      213: 5361296324782458229
+    second: Arcade - Lemmings - Traps_57
+  - first:
+      213: 79887845421515137
+    second: Arcade - Lemmings - Traps_58
+  - first:
+      213: -1400303713933266938
+    second: Arcade - Lemmings - Traps_59
+  - first:
+      213: 4665965975388788808
+    second: Arcade - Lemmings - Traps_60
+  - first:
+      213: -1877244497569578644
+    second: Arcade - Lemmings - Traps_61
+  - first:
+      213: -1960618627780458472
+    second: Arcade - Lemmings - Traps_62
+  - first:
+      213: -4372629865117721784
+    second: Arcade - Lemmings - Traps_63
+  - first:
+      213: 7307685863793650873
+    second: Arcade - Lemmings - Traps_64
+  - first:
+      213: -4240637333913304907
+    second: Arcade - Lemmings - Traps_65
+  - first:
+      213: 4751509318135017194
+    second: Arcade - Lemmings - Traps_66
+  - first:
+      213: 5142463704949752109
+    second: Arcade - Lemmings - Traps_67
+  - first:
+      213: -6871088199349352347
+    second: Arcade - Lemmings - Traps_68
+  - first:
+      213: 5154856690466680481
+    second: Arcade - Lemmings - Traps_69
+  - first:
+      213: -3482979314813506675
+    second: Arcade - Lemmings - Traps_70
+  - first:
+      213: -2685907707320662267
+    second: Arcade - Lemmings - Traps_71
+  - first:
+      213: -5300935385604763117
+    second: Arcade - Lemmings - Traps_72
+  - first:
+      213: 1578833050523785640
+    second: Arcade - Lemmings - Traps_73
+  - first:
+      213: 3097497793000572246
+    second: Arcade - Lemmings - Traps_74
+  - first:
+      213: 8009951167112957014
+    second: Arcade - Lemmings - Traps_75
+  - first:
+      213: 7692835424230925794
+    second: Arcade - Lemmings - Traps_76
+  - first:
+      213: -368783356054781923
+    second: Arcade - Lemmings - Traps_77
+  - first:
+      213: 4379643431855348100
+    second: Arcade - Lemmings - Traps_78
+  - first:
+      213: -5422593082531604558
+    second: Arcade - Lemmings - Traps_79
+  - first:
+      213: 8701545171340567235
+    second: Arcade - Lemmings - Traps_80
+  - first:
+      213: -2699668112106969361
+    second: Arcade - Lemmings - Traps_81
+  - first:
+      213: -75773935709463917
+    second: Arcade - Lemmings - Traps_82
+  - first:
+      213: 2627038333205099672
+    second: Arcade - Lemmings - Traps_83
+  - first:
+      213: -8161711078736000513
+    second: Arcade - Lemmings - Traps_84
+  - first:
+      213: -7620770022192084512
+    second: Arcade - Lemmings - Traps_85
+  - first:
+      213: 4112743429153779582
+    second: Arcade - Lemmings - Traps_86
+  - first:
+      213: -5623762382200035460
+    second: Arcade - Lemmings - Traps_87
+  - first:
+      213: 7294862348098122671
+    second: Arcade - Lemmings - Traps_88
+  - first:
+      213: 8742926820271038292
+    second: Arcade - Lemmings - Traps_89
+  - first:
+      213: 8334186691546666701
+    second: Arcade - Lemmings - Traps_90
+  - first:
+      213: -4511591601061527402
+    second: Arcade - Lemmings - Traps_91
+  - first:
+      213: -1368795561132305990
+    second: Arcade - Lemmings - Traps_92
+  - first:
+      213: -7488259121804671085
+    second: Arcade - Lemmings - Traps_93
+  - first:
+      213: -6073842712245508267
+    second: Arcade - Lemmings - Traps_94
+  - first:
+      213: 8524419497971045017
+    second: Arcade - Lemmings - Traps_95
+  - first:
+      213: 2285978414279869658
+    second: Arcade - Lemmings - Traps_96
+  - first:
+      213: -8567890704963816196
+    second: Arcade - Lemmings - Traps_97
+  - first:
+      213: 4017011233171357767
+    second: Arcade - Lemmings - Traps_98
+  - first:
+      213: 5934293009991491839
+    second: Arcade - Lemmings - Traps_99
+  - first:
+      213: 2862236595440915073
+    second: Arcade - Lemmings - Traps_100
+  - first:
+      213: -7612688972198073390
+    second: Arcade - Lemmings - Traps_101
+  - first:
+      213: 6824751447785933453
+    second: Arcade - Lemmings - Traps_102
+  - first:
+      213: 7828604611980622891
+    second: Arcade - Lemmings - Traps_103
+  - first:
+      213: -7111125917729414875
+    second: Arcade - Lemmings - Traps_104
+  - first:
+      213: 3297162219067766773
+    second: Arcade - Lemmings - Traps_105
+  - first:
+      213: -3806266993018882469
+    second: Arcade - Lemmings - Traps_106
+  - first:
+      213: 5499063821896148633
+    second: Arcade - Lemmings - Traps_107
+  - first:
+      213: 733084689562237996
+    second: Arcade - Lemmings - Traps_108
+  - first:
+      213: 4286558048001871549
+    second: Arcade - Lemmings - Traps_109
+  - first:
+      213: 4372744572964323271
+    second: Arcade - Lemmings - Traps_110
+  - first:
+      213: 2255820220237780793
+    second: Arcade - Lemmings - Traps_111
+  - first:
+      213: 7123876810940849071
+    second: Arcade - Lemmings - Traps_112
+  - first:
+      213: 8949942157098169077
+    second: Arcade - Lemmings - Traps_113
+  - first:
+      213: 3369898196491742887
+    second: Arcade - Lemmings - Traps_114
+  - first:
+      213: 4562413588058168543
+    second: Arcade - Lemmings - Traps_115
+  - first:
+      213: -5506432145509506200
+    second: Arcade - Lemmings - Traps_116
+  - first:
+      213: -530249612574303771
+    second: Arcade - Lemmings - Traps_117
+  - first:
+      213: -482443664254491245
+    second: Arcade - Lemmings - Traps_118
+  - first:
+      213: 4968491016559458912
+    second: Arcade - Lemmings - Traps_119
+  - first:
+      213: -4203612314449876251
+    second: Arcade - Lemmings - Traps_120
+  - first:
+      213: 3169842200605284895
+    second: Arcade - Lemmings - Traps_121
+  - first:
+      213: 2473457682400795771
+    second: Arcade - Lemmings - Traps_122
+  - first:
+      213: 2224757538677031103
+    second: Arcade - Lemmings - Traps_123
+  - first:
+      213: -8769663792473014784
+    second: Arcade - Lemmings - Traps_124
+  - first:
+      213: -3502129338584457691
+    second: Arcade - Lemmings - Traps_125
+  - first:
+      213: 528801201241074312
+    second: Arcade - Lemmings - Traps_126
+  - first:
+      213: 6721412421595382403
+    second: Arcade - Lemmings - Traps_127
+  - first:
+      213: 5513179631940372925
+    second: Arcade - Lemmings - Traps_128
+  - first:
+      213: -3561717049077763105
+    second: Arcade - Lemmings - Traps_129
+  - first:
+      213: 2709419036971952376
+    second: Arcade - Lemmings - Traps_130
+  - first:
+      213: 6120727519351770930
+    second: Arcade - Lemmings - Traps_131
+  - first:
+      213: -5076987798384841560
+    second: Arcade - Lemmings - Traps_132
+  - first:
+      213: 4529953664566364537
+    second: Arcade - Lemmings - Traps_133
+  - first:
+      213: 6653948882571871828
+    second: Arcade - Lemmings - Traps_134
+  - first:
+      213: 8697520077532838712
+    second: Arcade - Lemmings - Traps_135
+  - first:
+      213: 9206924324913154763
+    second: Arcade - Lemmings - Traps_136
+  - first:
+      213: -412367223858631954
+    second: Arcade - Lemmings - Traps_137
+  - first:
+      213: -25380873574993938
+    second: Arcade - Lemmings - Traps_138
+  - first:
+      213: -931700517996492401
+    second: Arcade - Lemmings - Traps_139
+  - first:
+      213: -8034681208743133528
+    second: Arcade - Lemmings - Traps_140
+  - first:
+      213: -2245817005095026003
+    second: Arcade - Lemmings - Traps_141
+  - first:
+      213: -7367456857991118293
+    second: Arcade - Lemmings - Traps_142
+  - first:
+      213: -6309716074779629957
+    second: Arcade - Lemmings - Traps_143
+  - first:
+      213: 3434777034332044835
+    second: Arcade - Lemmings - Traps_144
+  - first:
+      213: 170122438847307237
+    second: Arcade - Lemmings - Traps_145
+  - first:
+      213: 8854488714487829619
+    second: Arcade - Lemmings - Traps_146
+  - first:
+      213: 8246927664938108009
+    second: Arcade - Lemmings - Traps_147
+  - first:
+      213: 7620458792091378324
+    second: Arcade - Lemmings - Traps_148
+  - first:
+      213: -1993389592714099905
+    second: Arcade - Lemmings - Traps_149
+  - first:
+      213: -3062874151570850825
+    second: Arcade - Lemmings - Traps_150
+  - first:
+      213: 5397108866121974769
+    second: Arcade - Lemmings - Traps_151
+  - first:
+      213: -2658501045167408675
+    second: Arcade - Lemmings - Traps_152
+  - first:
+      213: 6011927258112625765
+    second: Arcade - Lemmings - Traps_153
+  - first:
+      213: -2090394240084335759
+    second: Arcade - Lemmings - Traps_154
+  - first:
+      213: -4504092971982845800
+    second: Arcade - Lemmings - Traps_155
+  - first:
+      213: 393882715714435062
+    second: Arcade - Lemmings - Traps_156
+  - first:
+      213: -4814169887204170978
+    second: Arcade - Lemmings - Traps_157
+  - first:
+      213: 283329059603356017
+    second: Arcade - Lemmings - Traps_158
+  - first:
+      213: 2687754843294975179
+    second: Arcade - Lemmings - Traps_159
+  - first:
+      213: 7092618379075736203
+    second: Arcade - Lemmings - Traps_160
+  - first:
+      213: -5315826864160221195
+    second: Arcade - Lemmings - Traps_161
+  - first:
+      213: 237813906358201580
+    second: Arcade - Lemmings - Traps_162
+  - first:
+      213: -2043652313163751782
+    second: Arcade - Lemmings - Traps_163
+  - first:
+      213: 563616542608011892
+    second: Arcade - Lemmings - Traps_164
+  - first:
+      213: -8413140631717303453
+    second: Arcade - Lemmings - Traps_165
+  - first:
+      213: 7045790797555204147
+    second: Arcade - Lemmings - Traps_166
+  - first:
+      213: 20605159261941983
+    second: Arcade - Lemmings - Traps_167
+  - first:
+      213: 4484235369144352866
+    second: Arcade - Lemmings - Traps_168
+  - first:
+      213: -3038883558881753061
+    second: Arcade - Lemmings - Traps_169
+  - first:
+      213: 6979875712558320470
+    second: Arcade - Lemmings - Traps_170
+  - first:
+      213: 7205386719021388766
+    second: Arcade - Lemmings - Traps_171
+  - first:
+      213: 7357292499285043531
+    second: Arcade - Lemmings - Traps_172
+  - first:
+      213: -8239837792121563730
+    second: Arcade - Lemmings - Traps_173
+  - first:
+      213: -4799228788630503527
+    second: Arcade - Lemmings - Traps_174
+  - first:
+      213: -345276163454833536
+    second: Arcade - Lemmings - Traps_175
+  - first:
+      213: 2797267757234138829
+    second: Arcade - Lemmings - Traps_176
+  - first:
+      213: 8148457389561731197
+    second: Arcade - Lemmings - Traps_177
+  - first:
+      213: 5837182393235423386
+    second: Arcade - Lemmings - Traps_178
+  - first:
+      213: 5600835887801514809
+    second: Arcade - Lemmings - Traps_179
+  - first:
+      213: 8083532578162242446
+    second: Arcade - Lemmings - Traps_180
+  - first:
+      213: 6765782172294359378
+    second: Arcade - Lemmings - Traps_181
+  - first:
+      213: -1782195566572883130
+    second: Arcade - Lemmings - Traps_182
+  - first:
+      213: -9218415003269979118
+    second: Arcade - Lemmings - Traps_183
+  - first:
+      213: 4422827268801855098
+    second: Arcade - Lemmings - Traps_184
+  - first:
+      213: -9128115921016263902
+    second: Arcade - Lemmings - Traps_185
+  - first:
+      213: 8094065739561748091
+    second: Arcade - Lemmings - Traps_186
+  - first:
+      213: 8830756891966726484
+    second: Arcade - Lemmings - Traps_187
+  - first:
+      213: -7953047681893495368
+    second: Arcade - Lemmings - Traps_188
+  - first:
+      213: 8782584153733921172
+    second: Arcade - Lemmings - Traps_189
+  - first:
+      213: 534985394949648974
+    second: Arcade - Lemmings - Traps_190
+  - first:
+      213: 2723826274194504303
+    second: Arcade - Lemmings - Traps_191
+  - first:
+      213: 3505811536655790905
+    second: Arcade - Lemmings - Traps_192
+  - first:
+      213: -4672212595137184568
+    second: Arcade - Lemmings - Traps_193
+  - first:
+      213: 831487633721275567
+    second: Arcade - Lemmings - Traps_194
+  - first:
+      213: -8008823055487567865
+    second: Arcade - Lemmings - Traps_195
+  - first:
+      213: 1669197124064672723
+    second: Arcade - Lemmings - Traps_196
+  - first:
+      213: 8368036524422018029
+    second: Arcade - Lemmings - Traps_197
+  - first:
+      213: -689453165691088943
+    second: Arcade - Lemmings - Traps_198
+  - first:
+      213: 7868731264934483111
+    second: Arcade - Lemmings - Traps_199
+  - first:
+      213: 7210181335474219364
+    second: Arcade - Lemmings - Traps_200
+  - first:
+      213: 7717904730069994705
+    second: Arcade - Lemmings - Traps_201
+  - first:
+      213: -2912104150869442637
+    second: Arcade - Lemmings - Traps_202
+  - first:
+      213: -3642482515762801782
+    second: Arcade - Lemmings - Traps_203
+  - first:
+      213: 5011707795627933403
+    second: Arcade - Lemmings - Traps_204
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_0
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 539
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66700aaf04cc020800000000000000
+      internalID: 2363335349633509032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_1
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 654
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b3c54d7eb1f2b0800000000000000
+      internalID: -5552447420320467561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_3
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 654
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ec3f7c7d35d100800000000000000
+      internalID: 132079368997234837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_4
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 658
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94c40c2853605f0800000000000000
+      internalID: -790885848868697660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_5
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 658
+        width: 116
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59df205fd46debd90800000000000000
+      internalID: -7079985933868401259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_6
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 650
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d4e8f29dfd0f790800000000000000
+      internalID: -7498247255673123517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_7
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 559
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413f759c31f4d1050800000000000000
+      internalID: 5772857243759801108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_8
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 615
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811b0a683b00d480800000000000000
+      internalID: -8876582528622063226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_9
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 606
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92f7e5c03665dd60800000000000000
+      internalID: 7914344279838290586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_10
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 606
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4487698f955b260800000000000000
+      internalID: 7112690110712792265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_11
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 602
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5c8d776edd5ee10800000000000000
+      internalID: 2226429572727490032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_12
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 574
+        width: 95
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110952318277cba80800000000000000
+      internalID: -8449747786850267119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_14
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 555
+        width: 109
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b823d2376e75040800000000000000
+      internalID: 4636427723755129692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_15
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 555
+        width: 109
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa256861e401430800000000000000
+      internalID: 3751584348249436048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_16
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 556
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f0634bfde08a90800000000000000
+      internalID: -7313584131426682753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_18
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 532
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb60c803ccbb803f0800000000000000
+      internalID: -934290437017172293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_19
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 559
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466d2e005ca7b4e0800000000000000
+      internalID: -1965913252488714677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 517
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5df27ef5d662e50800000000000000
+      internalID: 6784230147348223458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 517
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1b4d64e08d9d10800000000000000
+      internalID: 2134003517018020512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 517
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36569ebf920b83830800000000000000
+      internalID: 4051181559186285923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 517
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b260f00a9c77dbf20800000000000000
+      internalID: 3440037398238397995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 517
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378c6188c93021e0800000000000000
+      internalID: -2224714682593409220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 517
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05833ec75c8cb66b0800000000000000
+      internalID: -5301923385769248688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_26
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 534
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dfebcbe9aff3a20800000000000000
+      internalID: 3044427432804154690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_27
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 534
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ba606231107250800000000000000
+      internalID: 5940266816565327226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_28
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 510
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be7d5e5c1b756240800000000000000
+      internalID: 4784365540923506361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_29
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 510
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfaeb5cd0e650170800000000000000
+      internalID: 8144036506600648654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_30
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 510
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b232591c1835d0800000000000000
+      internalID: -3082683049856288322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_31
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 525
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc751b9c021ef3c0800000000000000
+      internalID: -4323998746878313263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_32
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 514
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922114b21fae16fd0800000000000000
+      internalID: -2350339208976985559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_33
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 494
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9327a982bb9c9a10800000000000000
+      internalID: 1917578732468904858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_37
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 502
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a102cc139c46aa0800000000000000
+      internalID: -6168584373875500508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_38
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 494
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a29361a954ef20800000000000000
+      internalID: 3450981764167803562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_39
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 513
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53013614d7d651b0800000000000000
+      internalID: -5668105775093841059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_40
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 491
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead18004a3020430800000000000000
+      internalID: 3747561842843704041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 28
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39523b550d20dbdc0800000000000000
+      internalID: -3621735431521753709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_46
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 510
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39b90340bf0e6180800000000000000
+      internalID: -9120334945665304262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_47
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 467
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865a24364a55e4b10800000000000000
+      internalID: 1967604251735795048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_48
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 464
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627c1d2ae973995a0800000000000000
+      internalID: -6514114231538694362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_49
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 450
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b5ea6019d105d0800000000000000
+      internalID: -3097956404118046339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_50
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 539
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fbfe234d9d133d0800000000000000
+      internalID: -3228559952437067993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_52
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 500
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb7d66c630a67b0800000000000000
+      internalID: -5230364253120644198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_53
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3138020a2d77b00800000000000000
+      internalID: 826360641827836896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_54
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 464
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93535a59cc7f3add0800000000000000
+      internalID: -2475862912067619527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_55
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 464
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c935a0b69dd8a5ca0800000000000000
+      internalID: -6027349186338729060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_56
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 454
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfbb21a88999ab80800000000000000
+      internalID: -8383000419274866753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_57
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 462
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575044e1a96276a40800000000000000
+      internalID: 5361296324782458229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_58
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 464
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18188387291db1100800000000000000
+      internalID: 79887845421515137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_60
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 460
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8489b115557d0c040800000000000000
+      internalID: 4665965975388788808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_61
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 464
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610fc55310b2f5e0800000000000000
+      internalID: -1877244497569578644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_62
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 462
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c12feebb7ac4e0800000000000000
+      internalID: -1960618627780458472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_63
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 454
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd46b0e4c4153c0800000000000000
+      internalID: -4372629865117721784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_64
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 0
+        width: 261
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc6099439d1a6560800000000000000
+      internalID: 7307685863793650873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_65
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 467
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b086da00da3625c0800000000000000
+      internalID: -4240637333913304907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_66
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 462
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee656edc80c0f140800000000000000
+      internalID: 4751509318135017194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_67
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 445
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d218ed36e73bd5740800000000000000
+      internalID: 5142463704949752109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_69
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 445
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeef4f29dab98740800000000000000
+      internalID: 5154856690466680481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_70
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 420
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be18c44c8f9afc0800000000000000
+      internalID: -3482979314813506675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_71
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 416
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5070ba5bb2db9bad0800000000000000
+      internalID: -2685907707320662267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_72
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 437
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312dab33a5b4f66b0800000000000000
+      internalID: -5300935385604763117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_73
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 433
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9dd106b4429e510800000000000000
+      internalID: 1578833050523785640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_74
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 433
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550b5cd4d58cfa20800000000000000
+      internalID: 3097497793000572246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_75
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 437
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4effd520192f60800000000000000
+      internalID: 8009951167112957014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 419
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e563d85f0172ca60800000000000000
+      internalID: 7692835424230925794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_77
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 415
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d104747dd71d1eaf0800000000000000
+      internalID: -368783356054781923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_78
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 426
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895c963f7e97cc30800000000000000
+      internalID: 4379643431855348100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_79
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 427
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7963252541fb4b0800000000000000
+      internalID: -5422593082531604558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_80
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 427
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c225c60b3912c870800000000000000
+      internalID: 8701545171340567235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_81
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 426
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe62a6ec72ad88ad0800000000000000
+      internalID: -2699668112106969361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_82
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 415
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39addc6c10cc2fef0800000000000000
+      internalID: -75773935709463917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_83
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 420
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8943606027d157420800000000000000
+      internalID: 2627038333205099672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_84
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff902983407cbbe80800000000000000
+      internalID: -8161711078736000513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 369
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98b489a069d3690800000000000000
+      internalID: -7620770022192084512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_86
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 408
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f680bcb56631930800000000000000
+      internalID: 4112743429153779582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_88
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 382
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b2cfd7ae8c3560800000000000000
+      internalID: 7294862348098122671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_89
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9d7bfe9d155970800000000000000
+      internalID: 8742926820271038292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_90
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 384
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65d69b3aaf8a370800000000000000
+      internalID: 8334186691546666701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_91
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 374
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690871f975b9361c0800000000000000
+      internalID: -4511591601061527402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_92
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 374
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d39870bf010de0800000000000000
+      internalID: -1368795561132305990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_93
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 392
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39701c2d00c541890800000000000000
+      internalID: -7488259121804671085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_94
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 395
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e20bdb3065bba0800000000000000
+      internalID: -6073842712245508267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_95
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 395
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9925afc7e52dc4670800000000000000
+      internalID: 8524419497971045017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_96
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 392
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4cc53914d69bf10800000000000000
+      internalID: 2285978414279869658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_97
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 374
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4b2486cccb81980800000000000000
+      internalID: -8567890704963816196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_98
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 348
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ceebfe6a4fb730800000000000000
+      internalID: 4017011233171357767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_99
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 374
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff060a52d08da5250800000000000000
+      internalID: 5934293009991491839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_100
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 374
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182116ec405b8b720800000000000000
+      internalID: 2862236595440915073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 1263
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba99aa6bb4a5690800000000000000
+      internalID: -7612688972198073390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_102
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 354
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0d9d584366be50800000000000000
+      internalID: 6824751447785933453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_103
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 362
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf618ba6ac4ac60800000000000000
+      internalID: 7828604611980622891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_104
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 352
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212aa877a4305d90800000000000000
+      internalID: -7111125917729414875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_105
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 352
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f77f52b19fd1cd20800000000000000
+      internalID: 3297162219067766773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_106
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 362
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56b0d8165c6d2bc0800000000000000
+      internalID: -3806266993018882469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_107
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 332
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99662552969905c40800000000000000
+      internalID: 5499063821896148633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_108
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 274
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c72af14a07c2a00800000000000000
+      internalID: 733084689562237996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_109
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 274
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4e3065d9ec7b30800000000000000
+      internalID: 4286558048001871549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_110
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 274
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3e05750c1fac30800000000000000
+      internalID: 4372744572964323271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_111
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 335
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9379a68d9884e4f10800000000000000
+      internalID: 2255820220237780793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_112
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab95c337381dd260800000000000000
+      internalID: 7123876810940849071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_113
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 348
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2312a19f4943c70800000000000000
+      internalID: 8949942157098169077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_114
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeae132e8844ce20800000000000000
+      internalID: 3369898196491742887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_115
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 348
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc5f925cf2f05f30800000000000000
+      internalID: 4562413588058168543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_116
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 335
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8632d1353293593b0800000000000000
+      internalID: -5506432145509506200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_117
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 336
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9583869cc24a8f0800000000000000
+      internalID: -530249612574303771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_118
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 264
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39529ff1b040e49f0800000000000000
+      internalID: -482443664254491245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_119
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 308
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06afebf5140a3f440800000000000000
+      internalID: 4968491016559458912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_120
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 339
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae1c72fd4c9a5c0800000000000000
+      internalID: -4203612314449876251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_121
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 338
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ade19dfaa8dfb20800000000000000
+      internalID: 3169842200605284895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_122
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 328
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd57e38ac735220800000000000000
+      internalID: 2473457682400795771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_123
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 242
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb08734b13defde10800000000000000
+      internalID: 2224757538677031103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_124
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 242
+        width: 28
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e7a029e35eb4680800000000000000
+      internalID: -8769663792473014784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_125
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 242
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e1330fbefe56fc0800000000000000
+      internalID: -3502129338584457691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_126
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 252
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a26cc04eda65700800000000000000
+      internalID: 528801201241074312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_127
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 323
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38247126cf0474d50800000000000000
+      internalID: 6721412421595382403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_128
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 316
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db989b84aafb28c40800000000000000
+      internalID: 5513179631940372925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_129
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 316
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd37443f63d329ec0800000000000000
+      internalID: -3561717049077763105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_130
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 323
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e46e424ac99520800000000000000
+      internalID: 2709419036971952376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_131
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 242
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8be5ff3131f450800000000000000
+      internalID: 6120727519351770930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_133
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 242
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97905717bd0adde30800000000000000
+      internalID: 4529953664566364537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_134
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 242
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456cd4b2143975c50800000000000000
+      internalID: 6653948882571871828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_135
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 242
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b3c28dd6cc3b870800000000000000
+      internalID: 8697520077532838712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_136
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 242
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca0a54a4e095cf70800000000000000
+      internalID: 9206924324913154763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_137
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 294
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea64e8d13af64af0800000000000000
+      internalID: -412367223858631954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_138
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 294
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef297eda34d5aff0800000000000000
+      internalID: -25380873574993938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_139
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 276
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8985c3b05fe113f0800000000000000
+      internalID: -931700517996492401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_140
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 282
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aefb5d92041f7090800000000000000
+      internalID: -8034681208743133528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_141
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 293
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da287cc255145d0e0800000000000000
+      internalID: -2245817005095026003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_142
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 290
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228c69a50981c990800000000000000
+      internalID: -7367456857991118293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_143
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 268
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76203909a26f68a0800000000000000
+      internalID: -6309716074779629957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_144
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 242
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef706b387caaf20800000000000000
+      internalID: 3434777034332044835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_145
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 242
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed11dfe4756c5200800000000000000
+      internalID: 170122438847307237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_146
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 244
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37490ce929671ea70800000000000000
+      internalID: 8854488714487829619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_147
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 240
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9644af46409f27270800000000000000
+      internalID: 8246927664938108009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_148
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 255
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492eb1085ee41c960800000000000000
+      internalID: 7620458792091378324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_149
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c0531abe0654e0800000000000000
+      internalID: -1993389592714099905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_150
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb4ebdf2c7e75d0800000000000000
+      internalID: -3062874151570850825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_151
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 242
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3cf4b2be166ea40800000000000000
+      internalID: 5397108866121974769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_152
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9bacf726b1b1bd0800000000000000
+      internalID: -2658501045167408675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_153
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c8a4b1df7ae6350800000000000000
+      internalID: 6011927258112625765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_154
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 236
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732047938d6df2e0800000000000000
+      internalID: -2090394240084335759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_155
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 213
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89801a14e4f3e71c0800000000000000
+      internalID: -4504092971982845800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_156
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 237
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f733593e3a577500800000000000000
+      internalID: 393882715714435062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_157
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 200
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1320d08ef1a03db0800000000000000
+      internalID: -4814169887204170978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_158
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 200
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179143057469ee300800000000000000
+      internalID: 283329059603356017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_159
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 200
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cee52ac2dc4520800000000000000
+      internalID: 2687754843294975179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_160
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 200
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82573466da0e6260800000000000000
+      internalID: 7092618379075736203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_161
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 200
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7504aa1a36a36b0800000000000000
+      internalID: -5315826864160221195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_162
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 200
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece023ec72ec4300800000000000000
+      internalID: 237813906358201580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_163
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 200
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e18758c0d73a3e0800000000000000
+      internalID: -2043652313163751782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_164
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 200
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4723fa3624e52d700800000000000000
+      internalID: 563616542608011892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_165
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 200
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba5119b258e3b80800000000000000
+      internalID: -8413140631717303453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_166
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 200
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308ef1766da7c160800000000000000
+      internalID: 7045790797555204147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_167
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 200
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0395e7844394000800000000000000
+      internalID: 20605159261941983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_169
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 200
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18041ff087b3d5d0800000000000000
+      internalID: -3038883558881753061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_170
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 200
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4a67caff7dd060800000000000000
+      internalID: 6979875712558320470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_171
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 200
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed356909b0daef360800000000000000
+      internalID: 7205386719021388766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_172
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 200
+        width: 129
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e7882c8a5a1660800000000000000
+      internalID: 7357292499285043531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_173
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 196
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea551c14f2736ad80800000000000000
+      internalID: -8239837792121563730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_174
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fb9d918d6b56db0800000000000000
+      internalID: -4799228788630503527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_175
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 228
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c6ddf9825553bf0800000000000000
+      internalID: -345276163454833536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_176
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 222
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce28936434e1d620800000000000000
+      internalID: 2797267757234138829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_177
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 184
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78db3cc2d2251170800000000000000
+      internalID: 8148457389561731197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_178
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 191
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9046fdb576d10150800000000000000
+      internalID: 5837182393235423386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_179
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 210
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3ba1c09a2abd40800000000000000
+      internalID: 5600835887801514809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_180
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 217
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8378ab2d0a7e2070800000000000000
+      internalID: 8083532578162242446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_181
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 206
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259a64ff903e4ed50800000000000000
+      internalID: 6765782172294359378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_184
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 210
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e78d3c7f9016d30800000000000000
+      internalID: 4422827268801855098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_186
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 166
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76cc3be7e5e35070800000000000000
+      internalID: 8094065739561748091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_187
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 170
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451628b1b962d8a70800000000000000
+      internalID: 8830756891966726484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_189
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 168
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499f84571c102e970800000000000000
+      internalID: 8782584153733921172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_190
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 191
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42fef9d166ac6700800000000000000
+      internalID: 534985394949648974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_192
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 184
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b5db940527a030800000000000000
+      internalID: 3505811536655790905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_193
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 184
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccfdbf2667f82fb0800000000000000
+      internalID: -4672212595137184568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_194
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 184
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa43613f8990a8b00800000000000000
+      internalID: 831487633721275567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_195
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 184
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70874b41dd1fad090800000000000000
+      internalID: -8008823055487567865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_196
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 184
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db7af7c0fd2a2710800000000000000
+      internalID: 1669197124064672723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_197
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 187
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33ba912ec312470800000000000000
+      internalID: 8368036524422018029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2103
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41e672569533d60800000000000000
+      internalID: 7868731264934483111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_202
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 0
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf7c7a24b02697d0800000000000000
+      internalID: -2912104150869442637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_203
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 32
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83136b537d437dc0800000000000000
+      internalID: -3642482515762801782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_204
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 0
+        width: 141
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde757cdfa92d8540800000000000000
+      internalID: 5011707795627933403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Lemmings - Traps_2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 353
+        width: 226
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994585fa979437d70800000000000000
+      internalID: 9039649664044389529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
