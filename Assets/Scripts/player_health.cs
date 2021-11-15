@@ -23,7 +23,7 @@ public class player_health : MonoBehaviour
 
     public static void Die(){
         Debug.Log("Player has died");
-       
+        DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
         SceneManager.LoadScene("GameOver");
         //yield return null; 
     }
