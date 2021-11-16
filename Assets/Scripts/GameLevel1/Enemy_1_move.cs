@@ -16,7 +16,7 @@ public class Enemy_1_move : MonoBehaviour
     void Update()
     {
         gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(XMoveDirection, 0) * EnemySpeed;
-        if (gameObject.transform.position.x < 0){
+        if (gameObject.transform.position.x < -3){
             Destroy(gameObject);
         }
     }
