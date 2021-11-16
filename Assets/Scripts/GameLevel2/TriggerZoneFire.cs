@@ -28,7 +28,8 @@ public class TriggerZoneFire : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            fire.GetComponent<Rigidbody2D>().velocity = Vector2.up * fireSpeed;
+            if (fire != null)
+                fire.GetComponent<Rigidbody2D>().velocity = Vector2.up * fireSpeed;
         }
     }
 }
