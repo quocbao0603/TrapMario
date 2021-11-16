@@ -27,13 +27,15 @@ public class player_move : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded == true){
             Jump();
         }
-
+        
         //Animation
         //Player Direction
-        if (moveX < 0.0f && facingRight == false){
+        if (moveX < 0.0f && facingRight == false)
+        {
             FlipPlayer();
         }
-        else if (moveX > 0.0f && facingRight == true){
+        else if (moveX > 0.0f && facingRight == true)
+        {
             FlipPlayer();
         }
         //Physics
