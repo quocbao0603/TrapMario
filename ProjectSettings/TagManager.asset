@@ -9,6 +9,9 @@ TagManager:
   - enemy
   - New tag
   - fire
+  - empty
+  - shooting
+  - fallen_blocks
   layers:
   - Default
   - TransparentFX

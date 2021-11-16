@@ -38,7 +38,7 @@ public class FlyTeki : MonoBehaviour
     {
         RaycastHit2D hit = Physics2D.Raycast(transform.position, new Vector2(moveX, 0));
         RaycastHit2D r_hit = Physics2D.Raycast(transform.position, new Vector2(-moveX, 0));
-        if (hit.collider != null && hit.distance < 0.48f)
+        if (hit.collider != null && hit.distance < 0.48f && hit.collider.gameObject.tag != "empty")
         {
             if (hit.collider.gameObject.tag == "Player")
             {
