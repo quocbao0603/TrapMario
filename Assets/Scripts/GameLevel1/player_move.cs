@@ -56,7 +56,7 @@ public class player_move : MonoBehaviour
     }
 
     void OnCollisionEnter2D(Collision2D col){
-        Debug.Log("Collision");
+        //Debug.Log("Collision");
         if (col.gameObject.tag == "ground"){
             isGrounded = true;
         }

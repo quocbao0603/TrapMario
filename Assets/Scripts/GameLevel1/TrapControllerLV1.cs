@@ -1,10 +1,10 @@
-
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
-public class Thorn_1_Control : MonoBehaviour
+public class TrapControllerLV1 : MonoBehaviour
 {
-     public Renderer rend;
-
+    public Renderer rend;
     void Start()
     {
         rend = GetComponent<Renderer>();
@@ -12,12 +12,14 @@ public class Thorn_1_Control : MonoBehaviour
     }
 
 
-    private void Reset(){
+    private void Reset()
+    {
         GetComponent<BoxCollider2D>().isTrigger = true;
     }
-    
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log("Trap triggered");
         if (collision.gameObject.tag == "Player")
         {
             rend.enabled = true;
@@ -26,3 +28,4 @@ public class Thorn_1_Control : MonoBehaviour
         }
     }
 }
+
