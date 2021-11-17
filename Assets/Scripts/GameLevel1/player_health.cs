@@ -28,4 +28,11 @@ public class player_health : MonoBehaviour
         //yield return null; 
     }
 
+    public static void Win(){
+        Debug.Log("Player has won");
+        //DataManagement.dataManagement.wins_counter++; // increase number of win time to show at game-over UI
+        SceneManager.LoadScene("GameLevel2");
+        //yield return null; 
+    }
+
 }

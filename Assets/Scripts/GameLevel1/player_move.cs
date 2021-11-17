@@ -20,6 +20,24 @@ public class player_move : MonoBehaviour
     void Update()
     {
         PlayerMove();
+        PlayerRayCast();
+    }
+
+    void PlayerRayCast(){
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down);
+        if(hit.collider != null && hit.distance < 0.51f){
+            if (hit.collider.tag == "ground")
+            {
+                isGrounded = true;
+            }
+        }
+        if (hit.collider != null && hit.distance > 0.51f)
+        {
+            if (hit.collider.tag == "ground")
+            {
+                isGrounded = false;
+            }
+        }
     }
     void PlayerMove(){
         //Control
@@ -55,11 +73,11 @@ public class player_move : MonoBehaviour
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * playerJumpPower);
     }
 
-    void OnCollisionEnter2D(Collision2D col){
+    //void OnCollisionEnter2D(Collision2D col){
         //Debug.Log("Collision");
-        if (col.gameObject.tag == "ground"){
-            isGrounded = true;
-        }
-    }
+        // if (col.gameObject.tag == "ground"){
+        //     isGrounded = true;
+        // }
+    //}
 }
 
