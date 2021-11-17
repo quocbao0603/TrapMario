@@ -14,6 +14,13 @@ public class teki_1_controller : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
+    void Update(){
+        if (gameObject.transform.position.y > 10){
+            //Debug.Log("Destroy teki");
+            Destroy(gameObject);
+        }
+    }
+
 
 
     // Update is called once per frame
@@ -31,6 +38,7 @@ public class teki_1_controller : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other){
         if (other.gameObject.CompareTag("Player"))
         {
+            Destroy(gameObject);
             //Debug.Log("teki got you");
             player_health.Die();
         }

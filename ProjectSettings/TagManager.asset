@@ -49,6 +49,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: TrapGround
+    uniqueID: 3765761061
+    locked: 0
+  - name: Teki
+    uniqueID: 1520147859
   - name: TestLayer
     uniqueID: 1118900009
     locked: 0
