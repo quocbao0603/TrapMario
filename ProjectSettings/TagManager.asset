@@ -9,6 +9,9 @@ TagManager:
   - enemy
   - New tag
   - fire
+  - empty
+  - shooting
+  - fallen_blocks
   layers:
   - Default
   - TransparentFX
@@ -51,4 +54,6 @@ TagManager:
     locked: 0
   - name: Teki
     uniqueID: 1520147859
+  - name: TestLayer
+    uniqueID: 1118900009
     locked: 0

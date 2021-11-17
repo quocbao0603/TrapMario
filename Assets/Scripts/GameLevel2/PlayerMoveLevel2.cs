@@ -105,6 +105,10 @@ public class PlayerMoveLevel2 : MonoBehaviour
         {
             PlayerHealthLevel2.Die();
         }
+        if (col.gameObject.tag == "shooting")
+        {
+            PlayerHealthLevel2.Die();
+        }
     }
 
 }
