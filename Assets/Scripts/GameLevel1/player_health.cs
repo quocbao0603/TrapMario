@@ -23,6 +23,9 @@ public class player_health : MonoBehaviour
 
     public static void Die(){
         Debug.Log("Player has died");
+        // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
+        SoundManager.soundManager.PlaySound("playerDie");
+
         DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
         SceneManager.LoadScene("GameOver");
         //yield return null; 
