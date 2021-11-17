@@ -25,7 +25,7 @@ public class Enemy_1_move : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            Debug.Log("Player hit");
+            //Debug.Log("Player hit");
             Destroy(gameObject);
             player_health.Die();
         }

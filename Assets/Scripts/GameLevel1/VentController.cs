@@ -24,10 +24,10 @@ public class VentController : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("on danger area");
+        //Debug.Log("on danger area");
         if (other.gameObject.CompareTag("enemy"))
         {
-            Debug.Log("active");
+            //Debug.Log("active");
             gameObject.GetComponent<BoxCollider2D>().enabled = true;
         }
     }
