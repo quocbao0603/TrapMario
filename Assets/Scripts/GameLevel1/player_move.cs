@@ -68,6 +68,7 @@ public class player_move : MonoBehaviour
     }
 
     void Jump(){
+        SoundManager.soundManager.PlaySound("playerJump");
         //Jumping code
         isGrounded = false;
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * playerJumpPower);
