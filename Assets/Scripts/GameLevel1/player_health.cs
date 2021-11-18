@@ -6,8 +6,7 @@ using UnityEngine.Events;
 
 public class player_health : MonoBehaviour
 {
-
- 
+    public bool updateOn = true;
     
     // Start is called before the first frame update
     void Start()
@@ -19,18 +18,21 @@ public class player_health : MonoBehaviour
     void Update()
     {
         //fall in a hole
+    
         if (gameObject.transform.position.y < -7)
-        {
-            Die();
-        }
+            {
+                Die();
+            }
+        
     }
-  
 
     public static void Die(){
         Debug.Log("Player has died");
-        // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
+        
         SoundManager.soundManager.PlaySound("playerDie");
-
+        // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
+        // I dont know how to stop the screen for some seconds
+        // So I delay the next scene before the start 3.5 seconds
         DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
         SceneManager.LoadScene("GameOver");
         //yield return null; 
@@ -42,5 +44,10 @@ public class player_health : MonoBehaviour
         SceneManager.LoadScene("GameLevel2");
         //yield return null; 
     }
-
+    // IEnumerator waiter(){
+    //     updateOn = false;
+    //     Debug.Log("waiting for 3.5 seconds");
+    //     yield return new WaitForSeconds(3.5f);
+    //     updateOn = true;
+    // } 
 }

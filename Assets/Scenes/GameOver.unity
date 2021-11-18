@@ -240,6 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 847e11ecaf108784e87f93b3beef2c2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateOn: 1
   dieCounterUI: {fileID: 2141895331}
 --- !u!1 &228283364
 GameObject:
