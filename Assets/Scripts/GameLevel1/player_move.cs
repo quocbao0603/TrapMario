@@ -8,13 +8,16 @@ public class player_move : MonoBehaviour
     private bool facingRight = false;
     public int playerJumpPower = 1250;
     private float moveX;
+    Animator m_Animator;
 
     public bool isGrounded;
+
     // Start is called before the first frame update
-    // void Start()
-    // {
-        
-    // }
+    void Start()
+    {
+        //Get the Animator, which you attach to the GameObject you intend to animate.
+        m_Animator = gameObject.GetComponent<Animator>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -26,9 +29,11 @@ public class player_move : MonoBehaviour
     void PlayerRayCast(){
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down);
         if(hit.collider != null && hit.distance < 0.51f){
-            if (hit.collider.tag == "ground")
+            if (hit.collider.tag == "ground" && isGrounded == false)
             {
                 isGrounded = true;
+                m_Animator.SetBool("IsJumping", false);
+               
             }
         }
         if (hit.collider != null && hit.distance > 0.51f)
@@ -42,7 +47,10 @@ public class player_move : MonoBehaviour
     void PlayerMove(){
         //Control
         moveX = Input.GetAxis("Horizontal");
+        m_Animator.SetFloat("Speed", Mathf.Abs(moveX * playerSpeed));
         if (Input.GetButtonDown("Jump") && isGrounded == true){
+            m_Animator.SetBool("IsJumping", true);
+            //Debug.Log("Jumping");
             Jump();
         }
         
@@ -68,11 +76,11 @@ public class player_move : MonoBehaviour
     }
 
     void Jump(){
+    //Jumping code
         SoundManager.soundManager.PlaySound("playerJump");
-        //Jumping code
-        isGrounded = false;
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * playerJumpPower);
     }
+
 
     //void OnCollisionEnter2D(Collision2D col){
         //Debug.Log("Collision");
