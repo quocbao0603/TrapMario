@@ -19,7 +19,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
@@ -54,6 +54,7 @@ TagManager:
     locked: 0
   - name: Teki
     uniqueID: 1520147859
+    locked: 0
   - name: TestLayer
     uniqueID: 1118900009
     locked: 0

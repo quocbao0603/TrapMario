@@ -2,9 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Events; 
 
 public class player_health : MonoBehaviour
 {
+
+ 
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +24,7 @@ public class player_health : MonoBehaviour
             Die();
         }
     }
+  
 
     public static void Die(){
         Debug.Log("Player has died");
