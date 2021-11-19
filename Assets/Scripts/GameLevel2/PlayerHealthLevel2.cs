@@ -5,38 +5,61 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHealthLevel2 : MonoBehaviour
 {
+    static public bool death = false;
+    static private Animator animator;
+    static private GameObject player;
     // Start is called before the first frame update
     void Start()
     {
+        death = false;
+        player = gameObject;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        //fall in a hole
-        if (gameObject.transform.position.y < -7)
+        if (death == false)
         {
-            Die();
+            //fall in a hole
+            if (gameObject.transform.position.y < -7)
+            {
+                Die();
+            }
         }
     }
 
     public static void Die()
     {
-        // Just for testing sound,
-        // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
-        SoundManager.soundManager.PlaySound("playerDie");
-        SceneManager.LoadScene("GameLevel2");
+        if (death == false)
+        {
+            // Just for testing sound,
+            // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
+            animator.SetTrigger("Death");
+            player.GetComponent<CapsuleCollider2D>().enabled = false;
+            player.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+            BackgroundMusicManager.TurnOff();
+            SoundManager.soundManager.PlaySound("playerDie");
+            death = true;
+            DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
+        }
+    }
 
-        //DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
-        //SceneManager.LoadScene("GameOver");
-        //yield return null; 
+    public void FallDown()
+    {
+        player.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic; // let it fall down.
+    }
+
+    public void RestartLevel()
+    {
+        // Save previous scene to continue 
+        PlayerPrefs.SetString("previous_scene", SceneManager.GetActiveScene().name);
+        SceneManager.LoadScene("GameOver");
     }
 
     public static void Win()
     {
-        //DataManagement.dataManagement.wins_counter++; // increase number of win time to show at game-over UI
         Debug.Log("Player win in level 2");
         SceneManager.LoadScene("MainMenu");
-        //yield return null; 
     }
 }

@@ -6,20 +6,25 @@ using UnityEngine.Events;
 
 public class player_health : MonoBehaviour
 {
+    static public bool death = false;
+    static private Animator animator;
+    static private GameObject player;
     public bool updateOn = true;
     
     // Start is called before the first frame update
     void Start()
     {
-      
+        death = false;
+        player = gameObject;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
         //fall in a hole
-    
-        if (gameObject.transform.position.y < -7)
+        
+        if (death == false && gameObject.transform.position.y < -7)
             {
                 Die();
             }
@@ -27,15 +32,29 @@ public class player_health : MonoBehaviour
     }
 
     public static void Die(){
-        Debug.Log("Player has died");
-        
-        SoundManager.soundManager.PlaySound("playerDie");
-        // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
-        // I dont know how to stop the screen for some seconds
-        // So I delay the next scene before the start 3.5 seconds
-        DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
+        if (death == false)
+        {
+            // Just for testing sound,
+            // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
+            animator.SetTrigger("Death");
+            player.GetComponent<CapsuleCollider2D>().enabled = false;
+            player.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+            BackgroundMusicManager.TurnOff();
+            SoundManager.soundManager.PlaySound("playerDie");
+            death = true;
+            DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
+        }
+    }
+
+    public void FallDown()
+    {
+        player.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic; // let it fall down.
+    }
+
+    public void RestartLevel()
+    {
+        PlayerPrefs.SetString("previous_scene", SceneManager.GetActiveScene().name);
         SceneManager.LoadScene("GameOver");
-        //yield return null; 
     }
 
     public static void Win(){

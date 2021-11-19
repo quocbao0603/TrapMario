@@ -5,6 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+    public void Start()
+    {
+        PlayerPrefs.SetString("previous_scene", SceneManager.GetActiveScene().name);
+    }
     public void ExitButton()
     {
         Application.Quit();

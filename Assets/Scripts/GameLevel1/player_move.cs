@@ -22,8 +22,11 @@ public class player_move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        PlayerMove();
-        PlayerRayCast();
+        if (player_health.death == false)
+        {
+            PlayerMove();
+            PlayerRayCast();
+        }
     }
 
     void PlayerRayCast(){
@@ -76,7 +79,7 @@ public class player_move : MonoBehaviour
     }
 
     void Jump(){
-    //Jumping code
+        //Jumping code
         SoundManager.soundManager.PlaySound("playerJump");
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * playerJumpPower);
     }
