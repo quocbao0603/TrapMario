@@ -24,8 +24,11 @@ public class PlayerMoveLevel2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        PlayerMove();
-        PlayerRayCast();
+        if (PlayerHealthLevel2.death == false)
+        {
+            PlayerMove();
+            PlayerRayCast();
+        }
     }
      
     void PlayerRayCast()
