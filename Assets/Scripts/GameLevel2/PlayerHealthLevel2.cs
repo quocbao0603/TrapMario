@@ -8,12 +8,14 @@ public class PlayerHealthLevel2 : MonoBehaviour
     static public bool death = false;
     static private Animator animator;
     static private GameObject player;
+    static private ItemCollector itemCollector;
     // Start is called before the first frame update
     void Start()
     {
         death = false;
         player = gameObject;
         animator = GetComponent<Animator>();
+        itemCollector = GetComponent<ItemCollector>();
     }
 
     // Update is called once per frame
@@ -42,6 +44,9 @@ public class PlayerHealthLevel2 : MonoBehaviour
             SoundManager.soundManager.PlaySound("playerDie");
             death = true;
             DataManagement.dataManagement.dies_counter++; // increase number of die time to show at game-over UI
+
+            // Update number of coins 
+            MapUIManager.instance.UpdateCurrentStar(1, itemCollector.coinCount);
         }
     }
 
@@ -60,6 +65,7 @@ public class PlayerHealthLevel2 : MonoBehaviour
     public static void Win()
     {
         // Update level to unlock map in MapSelection scene
+        MapUIManager.instance.UpdateFinishStar(1, itemCollector.coinCount);
         MapUIManager.instance.UpdateCurrentMapIndex(2);
         MapUIManager.instance.EnableCanvas();
         SceneManager.LoadScene("MapSelection");

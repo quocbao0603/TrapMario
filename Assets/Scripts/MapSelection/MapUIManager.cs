@@ -14,9 +14,11 @@ public class MapUIManager : MonoBehaviour
     public int current_map_index = 0;
 
     public int[] current_stars;
+    public int[] finish_stars;
     public MapSelection[] maps;
     public Text[] lockedStarsText;
     public Text[] unlockedStarsText;
+    public GameObject[] unlockedRightPanels;
 
     private void Start()
     {
@@ -38,22 +40,37 @@ public class MapUIManager : MonoBehaviour
         }
     }
 
-    private void UpdateStarUI()
+    private void Update()
+    {
+        UpdateUnlockedStarUI();
+    }
+
+    private void UpdateUnlockedStarUI()
     {
         for (int i = 0; i < maps.Length; ++i)
         {
-            if (maps[i].isUnlock == false) {
-                lockedStarsText[i].text = current_stars[i].ToString();
-            } else
+            if (maps[i].isUnlock == true)
             {
-                unlockedStarsText[i].text = current_stars[i].ToString();
+                if (finish_stars[i] >= 0)
+                {
+                    // Already finish level
+                    // Show star image
+                    // Show text
+                    unlockedRightPanels[i].SetActive(true);
+                    unlockedStarsText[i].text = finish_stars[i].ToString();
+                } else
+                {
+                    // Not finish level
+                    // Hidden image
+                    // Hidden text
+                    unlockedRightPanels[i].SetActive(false);
+                }
             }
         }
     }
 
     public void PressMapButton(int mIndex)
     {
-        Debug.Log("Clicked to map: " + mIndex);
         if (maps[mIndex].isUnlock)
         {
             canvas.enabled = false;
@@ -70,14 +87,18 @@ public class MapUIManager : MonoBehaviour
         canvas.enabled = true;
     }
 
-    void UpdateCurrentStar(int level, int star)
+    public void UpdateCurrentStar(int level, int star)
     {
         current_stars[level] = Math.Max(current_stars[level], star);
+    }
+
+    public void UpdateFinishStar(int level, int star)
+    {
+        finish_stars[level] = Math.Max(finish_stars[level], star);
     }
 
     public void UpdateCurrentMapIndex(int level)
     {
         current_map_index = Math.Max(current_map_index, level);
-        Debug.Log("Update current map index: " + current_map_index);
     }
 }

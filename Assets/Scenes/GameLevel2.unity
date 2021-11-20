@@ -7977,7 +7977,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1535118189}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 97.4, y: -3.41, z: 0}
+  m_LocalPosition: {x: 100, y: -3.3, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_Children: []
   m_Father: {fileID: 0}
@@ -8014,6 +8014,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99f581364044aab468eea772c4c77af7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coinCount: 0
   coinText: {fileID: 1316794741}
 --- !u!1 &1540341933
 GameObject:

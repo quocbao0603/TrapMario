@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ItemCollector : MonoBehaviour
 {   
-    private int coinCount = 0;
+    public int coinCount = 0;
     [SerializeField] private Text coinText;
     private void OnTriggerEnter2D(Collider2D other)
     {

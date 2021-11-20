@@ -17,6 +17,8 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
+        if (MapUIManager.instance != null)
+            MapUIManager.instance.EnableCanvas();
         SceneManager.LoadScene("MapSelection");
     }
 }
