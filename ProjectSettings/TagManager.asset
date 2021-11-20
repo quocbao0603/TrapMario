@@ -62,3 +62,6 @@ TagManager:
   - name: BackgroundScene
     uniqueID: 509180609
     locked: 0
+  - name: Foreground
+    uniqueID: 364760225
+    locked: 0

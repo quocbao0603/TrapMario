@@ -60,7 +60,9 @@ public class player_health : MonoBehaviour
     public static void Win(){
         // Update level to unlock map in MapSelection scene
         MapUIManager.instance.UpdateCurrentMapIndex(1);
-        MapUIManager.instance.EnableCanvas();
-        SceneManager.LoadScene("MapSelection");
+        //MapUIManager.instance.EnableCanvas();
+        //SceneManager.LoadScene("MapSelection");
+        //Load win UI before changing scene
+        SceneManager.LoadScene("WinUI");
     }
 }
