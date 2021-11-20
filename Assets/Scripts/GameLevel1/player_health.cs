@@ -58,15 +58,9 @@ public class player_health : MonoBehaviour
     }
 
     public static void Win(){
-        Debug.Log("Player has won");
-        //DataManagement.dataManagement.wins_counter++; // increase number of win time to show at game-over UI
-        SceneManager.LoadScene("GameLevel2");
-        //yield return null; 
+        // Update level to unlock map in MapSelection scene
+        MapUIManager.instance.UpdateCurrentMapIndex(1);
+        MapUIManager.instance.EnableCanvas();
+        SceneManager.LoadScene("MapSelection");
     }
-    // IEnumerator waiter(){
-    //     updateOn = false;
-    //     Debug.Log("waiting for 3.5 seconds");
-    //     yield return new WaitForSeconds(3.5f);
-    //     updateOn = true;
-    // } 
 }

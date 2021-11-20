@@ -17,6 +17,6 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("GameLevel1");
+        SceneManager.LoadScene("MapSelection");
     }
 }

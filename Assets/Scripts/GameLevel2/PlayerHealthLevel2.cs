@@ -59,7 +59,9 @@ public class PlayerHealthLevel2 : MonoBehaviour
 
     public static void Win()
     {
-        Debug.Log("Player win in level 2");
-        SceneManager.LoadScene("MainMenu");
+        // Update level to unlock map in MapSelection scene
+        MapUIManager.instance.UpdateCurrentMapIndex(2);
+        MapUIManager.instance.EnableCanvas();
+        SceneManager.LoadScene("MapSelection");
     }
 }
