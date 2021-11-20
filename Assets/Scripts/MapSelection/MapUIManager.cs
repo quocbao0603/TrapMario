@@ -82,6 +82,11 @@ public class MapUIManager : MonoBehaviour
         }
     }
 
+    public void PressBackButtonInMapSelection()
+    {   
+        SceneManager.LoadScene("MainMenu");
+    }
+
     public void EnableCanvas()
     {
         canvas.enabled = true;
