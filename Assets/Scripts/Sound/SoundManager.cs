@@ -8,6 +8,7 @@ public class SoundManager : MonoBehaviour
     private AudioClip playerKill;
     private AudioClip playerJump;
     private AudioClip playerDie;
+    private AudioClip playerCollect;
 
     private AudioSource audioSource;
 
@@ -27,6 +28,7 @@ public class SoundManager : MonoBehaviour
         playerKill = Resources.Load<AudioClip>("playerKill");
         playerJump = Resources.Load<AudioClip>("playerJump");
         playerDie = Resources.Load<AudioClip>("playerDie");
+        playerCollect = Resources.Load<AudioClip>("playerCollect");
         audioSource = GetComponent<AudioSource>();
     }
 
@@ -48,6 +50,9 @@ public class SoundManager : MonoBehaviour
                 break;
             case "playerDie":
                 audioSource.PlayOneShot(playerDie);
+                break;
+            case "playerCollect":
+                audioSource.PlayOneShot(playerCollect);
                 break;
             default:
                 break;
