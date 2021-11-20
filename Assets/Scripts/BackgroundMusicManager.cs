@@ -10,6 +10,8 @@ public class BackgroundMusicManager : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
+        // Set volume for background music
+        audioSource.volume = PlayerPrefs.GetFloat("master vol"); 
         isPlay = true;
     }
 

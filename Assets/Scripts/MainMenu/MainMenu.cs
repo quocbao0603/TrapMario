@@ -2,9 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
+    public GameObject mainMenuHolder;
+    public GameObject optionMenuHolder;
+
+    public Slider[] volumeSliders;
+
     public void Start()
     {
         PlayerPrefs.SetString("previous_scene", SceneManager.GetActiveScene().name);
@@ -12,7 +18,6 @@ public class MainMenu : MonoBehaviour
     public void ExitButton()
     {
         Application.Quit();
-        Debug.Log("Game closed");
     }
 
     public void PlayGame()
@@ -20,5 +25,30 @@ public class MainMenu : MonoBehaviour
         if (MapUIManager.instance != null)
             MapUIManager.instance.EnableCanvas();
         SceneManager.LoadScene("MapSelection");
+    }
+
+    public void OptionButton()
+    {
+        mainMenuHolder.SetActive(false);
+        optionMenuHolder.SetActive(true);
+
+    }
+
+    public void BackButton()
+    {
+        mainMenuHolder.SetActive(true);
+        optionMenuHolder.SetActive(false);
+    }
+
+    public void SetMasterVolume(float value)
+    {
+        Debug.Log("Set master volume: " + value);
+        PlayerPrefs.SetFloat("master vol", value);
+    }
+    public void SetMusicVolume(float value)
+    {
+        Debug.Log("Set music volume: " + value);
+        PlayerPrefs.SetFloat("music vol", value);
+        SoundManager.soundManager.SetMusicVolume(value);
     }
 }
