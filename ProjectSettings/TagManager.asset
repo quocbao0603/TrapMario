@@ -12,6 +12,7 @@ TagManager:
   - empty
   - shooting
   - fallen_blocks
+  - coin
   layers:
   - Default
   - TransparentFX
