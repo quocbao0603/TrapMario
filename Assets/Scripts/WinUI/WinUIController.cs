@@ -9,7 +9,7 @@ public class WinUIController : MonoBehaviour
     void Start()
     {
         Debug.Log("WinUIController Start");
-        //SoundManager.soundManager.PlaySound("levelComplete");
+        SoundManager.soundManager.PlaySound("levelComplete");
         StartCoroutine (updateOff());
     }
 

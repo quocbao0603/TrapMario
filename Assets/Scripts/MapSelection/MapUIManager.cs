@@ -22,6 +22,7 @@ public class MapUIManager : MonoBehaviour
 
     private void Start()
     {
+        unlockedRightPanels[0].SetActive(false); // first level always unfinished when start
         canvas = gameObject.GetComponent<Canvas>();
     }
 
@@ -83,7 +84,8 @@ public class MapUIManager : MonoBehaviour
     }
 
     public void PressBackButtonInMapSelection()
-    {   
+    {
+        canvas.enabled = false;
         SceneManager.LoadScene("MainMenu");
     }
 
