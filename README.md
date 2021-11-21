@@ -5,7 +5,7 @@ Tải game ngay: https://drive.google.com/drive/folders/15lv3OsYiOnpDRi-Mc2K417P
 
 ## Team Member:
 1. Trần Quốc Bảo - 18120111
-2. Đoàn Phú Đức 18120117
+2. Đoàn Phú Đức - 18120117
 
 ### How to use
 1. Download code from github 
