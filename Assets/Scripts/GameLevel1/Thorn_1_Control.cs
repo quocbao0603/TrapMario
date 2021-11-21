@@ -21,7 +21,6 @@ public class Thorn_1_Control : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             rend.enabled = true;
-            Debug.Log($"{name} is Triggered");
             player_health.Die();
         }
     }

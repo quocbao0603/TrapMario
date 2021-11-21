@@ -4,11 +4,6 @@ using UnityEngine;
 
 public class Thorn3 : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
@@ -24,7 +19,6 @@ public class Thorn3 : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            Debug.Log("Player on collision thorn 3");
             PlayerHealthLevel2.Die();
         } else if (collision.gameObject.tag == "ground")
         {

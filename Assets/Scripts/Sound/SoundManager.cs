@@ -16,7 +16,6 @@ public class SoundManager : MonoBehaviour
 
     private void Awake()
     {
-        Debug.Log("Sound Managemer Awake");
         if (soundManager == null)
         {
             DontDestroyOnLoad(gameObject);

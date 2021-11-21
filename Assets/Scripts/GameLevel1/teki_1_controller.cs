@@ -10,13 +10,11 @@ public class teki_1_controller : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //gameObject.GetComponent<BoxCollider2D>().isTrigger = true;
         rb = GetComponent<Rigidbody2D>();
     }
 
     void Update(){
         if (gameObject.transform.position.y > 10){
-            //Debug.Log("Destroy teki");
             Destroy(gameObject);
         }
     }
@@ -27,7 +25,6 @@ public class teki_1_controller : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         rb.isKinematic = false;
-        //Debug.Log("on danger area");
         if (other.gameObject.CompareTag("Player"))
         {
             GetComponent<BoxCollider2D>().isTrigger = false;
@@ -39,7 +36,6 @@ public class teki_1_controller : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             Destroy(gameObject);
-            //Debug.Log("teki got you");
             player_health.Die();
         }
     }

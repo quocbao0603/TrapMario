@@ -10,9 +10,6 @@ public class GameOver : MonoBehaviour
     public GameObject dieCounterUI;
     // Start is called before the first frame update
     void Start() {
-       
-        //StartCoroutine (updateOff());
-        Debug.Log(DataManagement.dataManagement.dies_counter);
     }
 
     // Update is called once per frame
@@ -33,14 +30,6 @@ public class GameOver : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
-
-    //IEnumerator updateOff ()
-    //{
-    //    Debug.Log("updateOff");
-    //    updateOn = false;
-    //    yield return new WaitForSeconds (3.5f);
-    //    updateOn = true;
-    //}
 }
 
 

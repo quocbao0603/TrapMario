@@ -15,20 +15,6 @@ public class OneSideBlock : MonoBehaviour
 
     private void Update()
     {
-        RayCast();
-    }
-
-    void RayCast()
-    {
-        //RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down);
-        //if (isActive && hit.collider != null && hit.distance < 0.8f)
-        //{
-        //    if (hit.collider.tag == "Player")
-        //    {
-        //        Debug.Log($"{name}Invisible block hit player");
-        //        rend.enabled = true;
-        //    }
-        //}
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

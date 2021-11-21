@@ -35,8 +35,6 @@ public class PlayerHealthLevel2 : MonoBehaviour
     {
         if (death == false)
         {
-            // Just for testing sound,
-            // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
             animator.SetTrigger("Death");
             player.GetComponent<CapsuleCollider2D>().enabled = false;
             player.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;

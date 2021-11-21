@@ -6,13 +6,6 @@ public class Enemy_1_move : MonoBehaviour
 {
     public int EnemySpeed;
     public int XMoveDirection;
-    // Start is called before the first frame update
-    // void Start()
-    // {
-        
-    // }
-
-    // Update is called once per frame
     void Update()
     {
         gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(XMoveDirection, 0) * EnemySpeed;
@@ -25,7 +18,6 @@ public class Enemy_1_move : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            //Debug.Log("Player hit");
             Destroy(gameObject);
             player_health.Die();
         }

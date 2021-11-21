@@ -23,10 +23,8 @@ public class GroudTrapController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Player is in the trap");
         rb.isKinematic = false;
         if (collision.gameObject.tag == "Player"){
-            Debug.Log("Drop active");
             DropDown();
         }
     }

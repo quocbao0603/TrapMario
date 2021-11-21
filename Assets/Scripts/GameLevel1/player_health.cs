@@ -36,8 +36,6 @@ public class player_health : MonoBehaviour
     public static void Die(){
         if (death == false)
         {
-            // Just for testing sound,
-            // TODO: Pause all things in 2-3 seconds depends on the length of "playerDie" sound
             animator.SetTrigger("Death");
             player.GetComponent<CapsuleCollider2D>().enabled = false;
             player.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
@@ -66,8 +64,6 @@ public class player_health : MonoBehaviour
         // Update level to unlock map in MapSelection scene
         MapUIManager.instance.UpdateFinishStar(0, itemCollector.coinCount);
         MapUIManager.instance.UpdateCurrentMapIndex(1);
-        //MapUIManager.instance.EnableCanvas();
-        //SceneManager.LoadScene("MapSelection");
         //Load win UI before changing scene
         SceneManager.LoadScene("WinUI");
     }

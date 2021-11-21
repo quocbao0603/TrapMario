@@ -6,11 +6,6 @@ public class TriggerZoneFire : MonoBehaviour
 {
     public GameObject fire;
     public int fireSpeed = 40;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()

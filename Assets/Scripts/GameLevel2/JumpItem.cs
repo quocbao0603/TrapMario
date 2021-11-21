@@ -6,11 +6,6 @@ using UnityEngine;
 public class JumpItem : MonoBehaviour
 {
     public int jump_force = 500;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()

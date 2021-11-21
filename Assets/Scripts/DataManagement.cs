@@ -9,10 +9,8 @@ public class DataManagement : MonoBehaviour
 
     void Awake()
     {
-        Debug.Log("Data Management Awake");
         if (dataManagement == null)
         {
-            Debug.Log("Case 1");
             DontDestroyOnLoad(gameObject);
             dataManagement = this;
         } else if (dataManagement != this)

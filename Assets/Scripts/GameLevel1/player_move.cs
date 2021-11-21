@@ -53,7 +53,6 @@ public class player_move : MonoBehaviour
         m_Animator.SetFloat("Speed", Mathf.Abs(moveX * playerSpeed));
         if (Input.GetButtonDown("Jump") && isGrounded == true){
             m_Animator.SetBool("IsJumping", true);
-            //Debug.Log("Jumping");
             Jump();
         }
         
@@ -83,13 +82,5 @@ public class player_move : MonoBehaviour
         SoundManager.soundManager.PlaySound("playerJump");
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * playerJumpPower);
     }
-
-
-    //void OnCollisionEnter2D(Collision2D col){
-        //Debug.Log("Collision");
-        // if (col.gameObject.tag == "ground"){
-        //     isGrounded = true;
-        // }
-    //}
 }
 

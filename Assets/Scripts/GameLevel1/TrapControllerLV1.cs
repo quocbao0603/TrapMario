@@ -19,11 +19,9 @@ public class TrapControllerLV1 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Trap triggered");
         if (collision.gameObject.tag == "Player")
         {
             rend.enabled = true;
-            Debug.Log($"{name} is Triggered");
             player_health.Die();
         }
     }

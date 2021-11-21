@@ -8,7 +8,6 @@ public class WinUIController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("WinUIController Start");
         SoundManager.soundManager.PlaySound("levelComplete");
         StartCoroutine (updateOff());
     }
@@ -18,18 +17,14 @@ public class WinUIController : MonoBehaviour
     {
         if (updateOn)
         {
-            Debug.Log("WinUIController Update");
-            //Update level to unlock map in MapSelection scene
-            //MapUIManager.instance.UpdateCurrentMapIndex(1);
             MapUIManager.instance.EnableCanvas();
             SceneManager.LoadScene("MapSelection");
             
         }
     }
 
-     IEnumerator updateOff ()
+    IEnumerator updateOff ()
     {
-       Debug.Log("updateOff");
        updateOn = false;
        yield return new WaitForSeconds (5);
        updateOn = true;

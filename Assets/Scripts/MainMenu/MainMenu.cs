@@ -42,12 +42,10 @@ public class MainMenu : MonoBehaviour
 
     public void SetMasterVolume(float value)
     {
-        Debug.Log("Set master volume: " + value);
         PlayerPrefs.SetFloat("master vol", value);
     }
     public void SetMusicVolume(float value)
     {
-        Debug.Log("Set music volume: " + value);
         PlayerPrefs.SetFloat("music vol", value);
         SoundManager.soundManager.SetMusicVolume(value);
     }

@@ -14,7 +14,7 @@ public class PlayerMoveLevel2 : MonoBehaviour
 
     public bool isGrounded;
     // Start is called before the first frame update
-     void Start()
+    void Start()
     {
         //Get the Animator, which you attach to the GameObject you intend to animate.
         m_Animator = gameObject.GetComponent<Animator>();
@@ -38,13 +38,11 @@ public class PlayerMoveLevel2 : MonoBehaviour
         {
             if (hit.collider.tag == "green_teki")
             {
-                Debug.Log("Player hit green teki");
                 SoundManager.soundManager.PlaySound("playerKill");
                 GetComponent<Rigidbody2D>().AddForce(Vector2.up * green_teki_jump_force);
             }
             if (hit.collider.tag == "enemy")
             {
-                Debug.Log("Player hit enemy");
                 SoundManager.soundManager.PlaySound("playerKill");
                 GetComponent<Rigidbody2D>().AddForce(Vector2.up * (teki_jump_force));
                 Destroy(hit.collider.gameObject);

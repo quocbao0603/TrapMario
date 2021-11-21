@@ -34,7 +34,6 @@ public class FlameController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other){
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("on Flame");
             rend.enabled = true;
             player_health.Die();
         }

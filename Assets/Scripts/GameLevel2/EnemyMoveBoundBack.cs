@@ -7,12 +7,6 @@ public class EnemyMoveBoundBack : MonoBehaviour
 {
     public int EnemySpeed;
     public int XMoveDirection;
-    // Start is called before the first frame update
-    // void Start()
-    // {
-
-    // }
-
     // Update is called once per frame
     void Update()
     {
@@ -46,19 +40,4 @@ public class EnemyMoveBoundBack : MonoBehaviour
             }
         }
     }
-
-    //void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    Debug.Log("Teki collision: " + name + " & " + collision.gameObject.tag);
-    //    if (collision.gameObject.tag == "Player")
-    //    {
-    //        Debug.Log("Player hit");
-    //        Destroy(gameObject);
-    //        PlayerHealthLevel2.Die();
-    //    } else
-    //    {
-    //        gameObject.GetComponent<SpriteRenderer>().flipX = !gameObject.GetComponent<SpriteRenderer>().flipX;
-    //        XMoveDirection *= -1;
-    //    }
-    //}
 }
